@@ -1,0 +1,1 @@
+export const CHAIN_NAME = "LISK SEPOLIA"
